@@ -8,6 +8,8 @@ This is a documentation repository for things that I learn and forget quickly an
 
 List of bash snippets, tricks & tips documentations.
 
+-   [Frequently used advanced Bash commands](docs/bash/frequently-used-bash-commands.md)
+
 ---
 
 ## Css
